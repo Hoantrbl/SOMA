@@ -1,2 +1,5 @@
 # SOMA
-Spatial Memory for Out-of-Vision Manipulation in Vision-Language-Action
+
+The official code of 「Spatial Memory for Out-of-Vision Manipulation in Vision-Language-Action」. Code will be released soon.
+
+
